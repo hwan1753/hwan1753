@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django%20-%092E20.svg?&style=for-the-badge&logo=Django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white" />
     <img src="https://img.shields.io/badge/Java%20-%007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL%20-%4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
