@@ -38,7 +38,7 @@
   <p>
     Data Structure, Algorithm
     <br>
-    Using Java, Python
+    Using Python
     <br>
     <em>
       in <a href="https://www.acmicpc.net/user/john1752" rel="nofollow">baekjoon</a> and <a href="https://programmers.co.kr/users/profile" rel="nofollow">Programmers</a>
